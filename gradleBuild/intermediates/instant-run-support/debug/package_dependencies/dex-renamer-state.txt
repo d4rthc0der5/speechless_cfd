@@ -1,0 +1,4 @@
+#Tue Feb 06 22:16:59 IST 2018
+base.0=C\:\\Users\\Aarush\\Desktop\\new_app_mobilenet\\app\\tensorflow\\tensorflow\\examples\\testing_app\\gradleBuild\\intermediates\\transforms\\dexMerger\\debug\\10
+path.0=classes.dex
+renamed.0=classes.dex
